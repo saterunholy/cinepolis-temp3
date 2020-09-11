@@ -4,7 +4,7 @@ Softtek panel for grafana 6+ & 7+, coding with react.
 
 Code editor is attached in the edit panel to configure the option of echarts.
 
-![image](https://github.com/saterunholy/cinepolis-temp4/blob/master/doc/screenshot3.png)
+![image](https://github.com/saterunholy/cinepolis-temp3/blob/master/doc/screenshot3.png)
 
 ## How Use
 
