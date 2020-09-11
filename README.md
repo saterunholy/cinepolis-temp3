@@ -1,19 +1,15 @@
-# Grafana Echarts Panel
+# Cinepolis Pie Chart Dark-White
 
-Echarts panel for grafana 6+ & 7+, coding with react.
+Softtek panel for grafana 6+ & 7+, coding with react.
 
 Code editor is attached in the edit panel to configure the option of echarts.
 
-Support [echarts-wordcloud](https://github.com/ecomfe/echarts-wordcloud), [echarts-liquidfill](https://github.com/ecomfe/echarts-liquidfill) and [echarts-gl](https://github.com/ecomfe/echarts-gl).
-
-![image](https://github.com/Billiballa/grafana-echarts/blob/master/doc/screenshot.png)
+![image](https://github.com/saterunholy/cinepolis-temp4/blob/master/doc/screenshot3.png)
 
 ## How Use
 
 1. Clone this repo to "/grafana_path/data/plugins".
 2. Restart grafana.
-
-(Map support: Add YourMap.json to **src/map** and run ``yarn build``, panel will auto register it(``echarts.registerMap('YourMap', {...}))``).
 
 ## Custom
 
